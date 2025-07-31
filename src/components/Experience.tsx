@@ -34,9 +34,9 @@ const experiences = [
   {
     type: 'work',
     title: 'Engineering Intern',
-    organization: 'NextGen Electronics',
-    period: '2016 - 2017',
-    description: 'Assisted in the development of circuit designs and PCB layouts. Gained hands-on experience with hardware testing and validation.',
+    organization: 'CloudJunctionAdvisors',
+    period: 'Dec 2024 - Mar 2025',
+    description: 'Assisted in the development of Custom Salesforce Applicaions. Gained hands-on experience with Apex testing',
   },
 ];
 
